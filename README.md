@@ -1,1 +1,3 @@
-# LearningPy-Team.github.io
+#LearningPy Team
+
+channel rubika: http://rubika.ir/learningPy
